@@ -46,7 +46,7 @@ echo -e "$grn               the virus  has been updated check it now...$rset"
 sleep 3.0
 echo " "
 cd $HOME
-cd Virus
+cd lc-virus
 bash lc-virus.sh
 clear
 sleep 1.0
