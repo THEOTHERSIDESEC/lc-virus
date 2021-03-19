@@ -38,7 +38,7 @@ echo " "
 echo -e "$grn                updating the virus  please wait$rset"
 sleep 2.0
 cd $HOME
-rm -rf Virus
+rm -rf lc-virus
 git clone https://github.com/THEOTHERSIDESEC/lc-virus
 clear
 echo " "
