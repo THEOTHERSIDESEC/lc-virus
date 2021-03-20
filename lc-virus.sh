@@ -106,7 +106,7 @@ echo " "
 echo " "
 echo -e "$grn ＞＞＞＞＞＞＞$ylo [EXIT]$grn ＜＜＜＜＜＜＜＜＜$rset"
 echo " "
-echo -e "$cyan             click$grn ENTER$cyan to go back into infect  menu$rset"
+echo -e "$cyan             click$grn ENTER$cyan to go back into virus menu$rset"
 echo " "
 fi
 cd $HOME/lc-virus
