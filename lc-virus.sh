@@ -61,7 +61,7 @@ case "$n" in
 1)echo " "
 echo " "
 echo " "
-echo -e "$red               You are going to$grn Infect$red Now$rset"
+echo -e "$red               You are going to$grn destroy$red Now$rset"
 echo " "
 echo -e "$grn                  Press$ylo ENTER$red to continue$rset"
 echo " "
@@ -83,7 +83,7 @@ echo " "
 echo -e "$cyan            click$grn ENTER$cyan to go back into infect  menu$rset"
 echo " "
 fi
-cd $HOME/lc-virus/
+cd $HOME/lc-virus
 bash lc-virus.sh ;;
 2)echo " "
 echo " "
