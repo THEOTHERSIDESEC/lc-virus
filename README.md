@@ -1,7 +1,7 @@
 # lc-virus
 
 The lc virus is a very deadly virus which can destroy a 
-Android device with any need of root . Enjoy 
+Android device with no need of root . Enjoy 
 
 # INSTALLATION [Termux] :
 
